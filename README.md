@@ -9,6 +9,7 @@ In this project you will build such a pipeline.
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
+- [Wandb Project Link] (#Link to corresponding wandb project)
 - [Preliminary steps](#preliminary-steps)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
@@ -30,6 +31,11 @@ In this project you will build such a pipeline.
   * [Release the pipeline](#release-the-pipeline)
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
 - [Cleaning up](#cleaning-up)
+
+## Wandb Project Link
+
+[Weights and Biases Project](https://wandb.ai/averma12/nyc_airbnb)
+
 
 ## Preliminary steps
 ### Fork the Starter kit
@@ -57,6 +63,8 @@ file provided in the root of the repository and activate it:
 > conda env create -f environment.yml
 > conda activate nyc_airbnb_dev
 ```
+
+
 
 ### Get API key for Weights and Biases
 Let's make sure we are logged in to Weights & Biases. Get your API key from W&B by going to 
