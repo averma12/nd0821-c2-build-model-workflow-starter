@@ -10,7 +10,7 @@ In this project you will build such a pipeline.
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
 - [Preliminary steps](#preliminary-steps)
-  * [Wandb project](#Link to corresponding wandb project)
+  * [Wandb Project Link](#wandb-project-link)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
   * [Get API key for Weights and Biases](#get-api-key-for-weights-and-biases)
@@ -32,13 +32,17 @@ In this project you will build such a pipeline.
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
 - [Cleaning up](#cleaning-up)
 
-## Wandb Project Link
 
-[Weights and Biases Project](https://wandb.ai/averma12/nyc_airbnb)
 
 
 ## Preliminary steps
+
+### Wandb Project Link
+
+[Weights and Biases Project](https://wandb.ai/averma12/nyc_airbnb)
+
 ### Fork the Starter kit
+
 Go to [https://github.com/udacity/nd0821-c2-build-model-workflow-starter](https://github.com/udacity/nd0821-c2-build-model-workflow-starter)
 and click on `Fork` in the upper right corner. This will create a fork in your Github account, i.e., a copy of the
 repository that is under your control. Now clone the repository locally so you can start working on it:
