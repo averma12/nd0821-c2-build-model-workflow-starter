@@ -9,7 +9,7 @@ In this project you will build such a pipeline.
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
-- [Wandb Project Link] (#Link to corresponding wandb project)
+- [Wandb Project Link](#Link to corresponding wandb project)
 - [Preliminary steps](#preliminary-steps)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
