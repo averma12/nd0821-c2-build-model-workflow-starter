@@ -9,8 +9,8 @@ In this project you will build such a pipeline.
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
-- [Wandb Project Link](#Link to corresponding wandb project)
 - [Preliminary steps](#preliminary-steps)
+  * [Wandb project](#Link to corresponding wandb project)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
   * [Get API key for Weights and Biases](#get-api-key-for-weights-and-biases)
